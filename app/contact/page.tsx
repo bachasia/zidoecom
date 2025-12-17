@@ -51,10 +51,10 @@ export default function Contact() {
                   </h3>
                   <p className="text-neutral-mineral text-base">
                     <a
-                      href="tel:+12086093487"
+                      href="tel:+12136402596"
                       className="hover:text-primary transition-colors"
                     >
-                      +1 (208) 609-3487
+                      +1 (213) 640-2596
                     </a>
                   </p>
                 </div>
